@@ -1,4 +1,3 @@
-package test.java;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.logevents.SelenideLogger;

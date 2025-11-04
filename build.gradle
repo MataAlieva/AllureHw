@@ -33,9 +33,7 @@ dependencies {
     testImplementation enforcedPlatform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
     testImplementation 'com.codeborne:selenide:7.12.0'
- //   testImplementation 'io.qameta.allure:allure-selenide:2.19.0'
     testImplementation 'io.qameta.allure:allure-selenide:2.25.0'
-    testImplementation 'io.qameta.allure:allure-junit5:2.25.0'
 
 }
 
